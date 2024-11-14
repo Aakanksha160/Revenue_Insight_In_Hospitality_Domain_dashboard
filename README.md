@@ -38,3 +38,6 @@ The dashboard is designed as per the stakeholder-provided mock-up and includes t
 - Correlations between room type and revenue.
 - Identified potential areas for targeted marketing and operational improvements.
 
+ **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Aakanksha160/Revenue_Insight_In_Hospitality_Domain_dashboard.git
